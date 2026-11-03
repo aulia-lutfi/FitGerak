@@ -1,0 +1,376 @@
+{
+  "kategoriId": "materi-penjas",
+  "kategoriJudul": "Materi Penjas",
+  "babList": [
+    {
+      "id": "bab-1",
+      "nomor": 1,
+      "judul": "Komponen Utama Kebugaran Jasmani dalam Penjas",
+      "deskripsi": "Memahami 5 komponen kebugaran yang terkait dengan kesehatan dan keterampilan gerak dasar menurut ilmu pendidikan jasmani.",
+      "estimasiMenit": 6,
+      "sections": [
+        {
+          "subjudul": "Klasifikasi Komponen Kebugaran",
+          "penjelasan": "Dalam ilmu Pendidikan Jasmani dan Olahraga, kebugaran jasmani dibagi menjadi dua kelompok besar: komponen yang terkait dengan kesehatan (Health-Related Fitness) dan komponen yang terkait dengan keterampilan gerak (Skill-Related Fitness).",
+          "poinPenting": [
+            "Komponen Terkait Kesehatan: Daya tahan kardiorespirasi, kekuatan otot, daya tahan otot, kelenturan (fleksibilitas), dan komposisi tubuh.",
+            "Komponen Terkait Keterampilan: Kecepatan, kelincahan (agility), keseimbangan (balance), koordinasi, daya ledak (power), dan waktu reaksi.",
+            "Bagi masyarakat umum, penguatan komponen terkait kesehatan adalah prioritas utama untuk mencegah penyakit degeneratif."
+          ],
+          "tipsPraktis": "Ketahui kelemahan fisik Anda: apakah mudah kram (kurang kelenturan) atau cepat lelah saat menaiki tangga (kurang daya tahan jantung).",
+          "visual": {
+            "type": "infographic",
+            "tag": "Komponen Kesehatan",
+            "judul": "5 Komponen Utama Terkait Kesehatan (Health-Related)",
+            "items": [
+              { "judul": "1. Daya Tahan Jantung-Paru", "deskripsi": "Kapasitas memasok oksigen ke tubuh saat bekerja terus-menerus." },
+              { "judul": "2. Kekuatan Otot (Strength)", "deskripsi": "Tenaga maksimal yang dapat dihasilkan otot melawan beban." },
+              { "judul": "3. Daya Tahan Otot (Endurance)", "deskripsi": "Kemampuan otot berkontraksi berulang kali tanpa lelah." },
+              { "judul": "4. Kelenturan (Flexibility)", "deskripsi": "Luas gerak sendi (range of motion) secara optimal dan bebas kaku." },
+              { "judul": "5. Komposisi Tubuh", "deskripsi": "Perbandingan massa otot, tulang, dan massa lemak tubuh." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Tes Sederhana Mandiri di Rumah",
+          "penjelasan": "Tingkat kebugaran dasar dapat diuji secara mandiri dengan tes sederhana tanpa laboratorium.",
+          "poinPenting": [
+            "Tes Sit and Reach (atau cium lutut santai): mengukur kelenturan paha belakang dan punggung bawah.",
+            "Tes Push-Up 1 Menit: mengukur daya tahan dan kekuatan otot tubuh bagian atas.",
+            "Tes Plank: mengukur ketahanan statis otot inti tubuh."
+          ],
+          "tipsPraktis": "Jangan paksakan tes kebugaran jika sedang flu, demam, atau cedera sendi.",
+          "visual": {
+            "type": "comparison",
+            "tag": "Perbedaan Konsep",
+            "judul": "Kekuatan Otot vs Daya Tahan Otot",
+            "items": [
+              { "judul": "Kekuatan Otot (Strength)", "deskripsi": "Mampu mengangkat galon air 1 kali dengan tenaga penuh." },
+              { "judul": "Daya Tahan Otot (Endurance)", "deskripsi": "Mampu menahan atau membawa belanjaan seberat 5 kg sambil berjalan selama 15 menit." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Tes Duduk-Jangkau (Sit and Reach Sederhana)",
+          "keterangan": "Duduk di lantai dengan kaki lurus, julurkan kedua tangan ke depan sejauh mungkin. Sentuh jari kaki tanpa menekuk lutut."
+        },
+        {
+          "langkah": "Evaluasi Tes Naik-Turun Bangku (Step Test)",
+          "keterangan": "Naik-turun undakan tangga selama 3 menit secara stabil, lalu ukur kecepatan detak jantung kembali normal."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Komponen kebugaran jasmani yang paling erat kaitannya dengan pencegahan penyakit degeneratif pada masyarakat adalah...",
+          "pilihan": [
+            { "id": "A", "teks": "Health-related fitness (kebugaran terkait kesehatan)" },
+            { "id": "B", "teks": "Skill-related fitness untuk atletik tingkat dunia saja" },
+            { "id": "C", "teks": "Hanya kemampuan melempar lembing" },
+            { "id": "D", "teks": "Hanya kecepatan reaksi visual komputer" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Health-related fitness (daya tahan jantung, kekuatan otot, daya tahan otot, kelenturan, dan komposisi tubuh) adalah pilar terpenting untuk menjaga kesehatan organ vital masyarakat luas."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Apa perbedaan antara 'kekuatan otot' (muscular strength) dan 'daya tahan otot' (muscular endurance)?",
+          "pilihan": [
+            { "id": "A", "teks": "Kekuatan adalah mengangkat beban maksimal 1 kali, daya tahan adalah kemampuan kontraksi berulang dalam durasi waktu tertentu" },
+            { "id": "B", "teks": "Kekuatan hanya ada di kaki, daya tahan hanya ada di tangan" },
+            { "id": "C", "teks": "Kekuatan terjadi saat tidur, daya tahan terjadi saat makan" },
+            { "id": "D", "teks": "Keduanya adalah istilah yang sama persis tanpa perbedaan" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Kekuatan otot diukur dari usaha maksimal satu kali (1 RM), sedangkan daya tahan otot diukur dari berapa kali atau berapa lama otot sanggup bertahan melawan beban berulang."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Kemampuan gerak persendian untuk bergerak dalam ruang gerak (range of motion) secara maksimal disebut...",
+          "pilihan": [
+            { "id": "A", "teks": "Kelenturan (Fleksibilitas)" },
+            { "id": "B", "teks": "Kecepatan (Speed)" },
+            { "id": "C", "teks": "Kelincahan (Agility)" },
+            { "id": "D", "teks": "Ketahanan Anaerobik" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Kelenturan (fleksibilitas) adalah kemampuan sendi dan elastisitas otot di sekitarnya untuk bergerak leluasa tanpa rasa sakit atau hambatan."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Manakah di bawah ini yang merupakan contoh komponen kebugaran yang terkait dengan keterampilan (skill-related)?",
+          "pilihan": [
+            { "id": "A", "teks": "Kelincahan (Agility) dan Keseimbangan (Balance)" },
+            { "id": "B", "teks": "Komposisi Lemak Tubuh" },
+            { "id": "C", "teks": "Daya Tahan Kardiorespirasi" },
+            { "id": "D", "teks": "Kadar hemoglobin darah" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Kelincahan, keseimbangan, kecepatan, koordinasi, dan power adalah komponen pendukung performa keterampilan motorik dan olahraga spesifik."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Mengapa komposisi tubuh dianggap sebagai salah satu indikator penting kebugaran jasmani?",
+          "pilihan": [
+            { "id": "A", "teks": "Karena mengukur rasio perbandingan jaringan lemak bebas versus massa lemak tubuh yang berpengaruh pada risiko penyakit metabolik" },
+            { "id": "B", "teks": "Hanya untuk menilai penampilan di foto" },
+            { "id": "C", "teks": "Karena orang bertubuh tinggi otomatis bugar tanpa perlu olahraga" },
+            { "id": "D", "teks": "Karena komposisi tubuh tidak dapat diubah sama sekali" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Komposisi tubuh menunjukkan persentase lemak relatif terhadap massa otot dan tulang. Penumpukan lemak visceral berlebih meningkatkan risiko diabetes dan penyakit kardiovaskular."
+        }
+      ]
+    },
+    {
+      "id": "bab-2",
+      "nomor": 2,
+      "judul": "Prinsip Latihan F.I.T.T. & Beban Lebih Progresif",
+      "deskripsi": "Panduan menyusun program latihan pribadi yang aman, terukur, dan berkelanjutan menggunakan formula ilmiah FITT.",
+      "estimasiMenit": 6,
+      "sections": [
+        {
+          "subjudul": "Membedah Rumus Emas F.I.T.T.",
+          "penjelasan": "Formula FITT adalah standar internasional dalam pendidikan jasmani dan fisiologi olahraga untuk merancang dosis latihan yang tepat sasaran agar tubuh mengalami adaptasi positif tanpa cedera.",
+          "poinPenting": [
+            "F - Frequency (Frekuensi): Berapa kali latihan dilakukan dalam satu minggu (misal 3-5 kali seminggu).",
+            "I - Intensity (Intensitas): Seberapa berat tingkat kesulitan latihan (ringan, sedang, atau berat).",
+            "T - Time (Waktu/Durasi): Berapa lama durasi tiap sesi latihan (misal 20-45 menit).",
+            "T - Type (Tipe/Jenis): Jenis aktivitas fisik yang dipilih (aerobik, latihan beban otot, peregangan fleksibilitas)."
+          ],
+          "tipsPraktis": "Bagi pemula, utamakan peningkatan Frekuensi dan Waktu terlebih dahulu sebelum menaikkan Intensitas.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Formula FITT",
+            "judul": "Penerapan Prinsip FITT untuk Masyarakat Dewasa",
+            "items": [
+              { "judul": "Frekuensi (F)", "deskripsi": "3 - 5 hari per minggu untuk kardio; 2 - 3 hari untuk latihan beban." },
+              { "judul": "Intensitas (I)", "deskripsi": "Sedang (Moderate), dapat dicek dengan Talk Test atau denyut 50-70% denyut maksimal." },
+              { "judul": "Waktu (T)", "deskripsi": "Akumulasi minimal 30 menit per hari atau 150 menit per minggu." },
+              { "judul": "Tipe (T)", "deskripsi": "Kombinasi jalan cepat, senam, bersepeda, serta kalistenik tubuh." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Prinsip Overload Progresif & Pemulihan (Rest)",
+          "penjelasan": "Tubuh manusia luar biasa adaptif. Agar kebugaran terus meningkat, rangsangan latihan harus ditambah secara bertahap (Progressive Overload), namun tetap diimbangi waktu istirahat yang cukup untuk adaptasi.",
+          "poinPenting": [
+            "Jangan menaikkan beban latihan lebih dari 10% per minggu (Rule of 10%).",
+            "Otot berkembang dan pulih pada saat fase istirahat, bukan pada saat sesi latihan itu sendiri.",
+            "Overtraining (latihan berlebihan tanpa jeda) menyebabkan kelelahan kronis, cedera ligamen, dan gangguan imunitas."
+          ],
+          "tipsPraktis": "Beri jeda minimal 48 jam sebelum melatih kelompok otot yang sama dengan intensitas berat.",
+          "visual": {
+            "type": "comparison",
+            "tag": "Siklus Adaptasi",
+            "judul": "Siklus Latihan yang Seimbang",
+            "items": [
+              { "judul": "Stimulasi Latihan Terukur", "deskripsi": "Merangsang serabut otot dan sistem peredaran darah beradaptasi." },
+              { "judul": "Pemulihan & Asupan Gizi", "deskripsi": "Tidur cukup dan protein membentuk jaringan yang lebih kuat dari sebelumnya." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Menyusun Jadwal Mingguan Sederhana",
+          "keterangan": "Senin (Jalan santai 30 menit), Rabu (Latihan 10 menit core), Jumat (Senam/Kardio 20 menit), Minggu (Peregangan santai bersama keluarga)."
+        },
+        {
+          "langkah": "Penerapan Rule of 10%",
+          "keterangan": "Jika minggu ini sanggup jalan cepat 20 menit, minggu depan cukup naikkan menjadi 22 menit (kenaikan 10%)."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Apakah kepanjangan dari akronim F.I.T.T. dalam prinsip latihan fisik?",
+          "pilihan": [
+            { "id": "A", "teks": "Fitness, Immunity, Training, Tactics" },
+            { "id": "B", "teks": "Frequency, Intensity, Time, Type" },
+            { "id": "C", "teks": "Fast, Incredible, Tough, Technique" },
+            { "id": "D", "teks": "Flexibility, Injury, Trauma, Treatment" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "FITT merupakan singkatan dari Frequency (frekuensi), Intensity (intensitas beban), Time (lama waktu/durasi), dan Type (jenis atau mode latihan)."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Berapakah frekuensi latihan aerobik intensitas sedang yang disarankan dalam seminggu untuk memelihara kebugaran jasmani?",
+          "pilihan": [
+            { "id": "A", "teks": "1 kali setiap 2 bulan" },
+            { "id": "B", "teks": "3 hingga 5 kali per minggu" },
+            { "id": "C", "teks": "14 kali sehari tanpa jeda" },
+            { "id": "D", "teks": "Hanya di malam pergantian tahun" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Frekuensi 3-5 hari dalam seminggu memberikan stimulasi aerobik yang konsisten pada jantung dan paru-paru tanpa menyebabkan kelelahan berlebih."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Konsep 'Progressive Overload' menjelaskan bahwa...",
+          "pilihan": [
+            { "id": "A", "teks": "Beban latihan harus ditambah secara bertahap dan teratur agar tubuh terus beradaptasi dan bertambah bugar" },
+            { "id": "B", "teks": "Latihan harus dilakukan sampai pingsan di hari pertama" },
+            { "id": "C", "teks": "Tidak boleh ada variasi gerakan apa pun selamanya" },
+            { "id": "D", "teks": "Tubuh tidak akan pernah berubah meskipun dilatih bertahun-tahun" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Overload progresif berarti meningkatkan volume, beban, atau durasi latihan sedikit demi sedikit (sekitar 10% bertahap) sejalan dengan peningkatan kekuatan tubuh."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Bagi seorang pemula, manakah variabel FITT yang paling aman untuk ditingkatkan terlebih dahulu?",
+          "pilihan": [
+            { "id": "A", "teks": "Intensitas beban berat ekstrem langsung di hari pertama" },
+            { "id": "B", "teks": "Frekuensi dan Durasi (Time) secara santai dan bertahap" },
+            { "id": "C", "teks": "Mengurangi waktu tidur menjadi 1 jam per hari" },
+            { "id": "D", "teks": "Menahan napas saat berlari cepat" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Membangun kebiasaan frekuensi (rutinitas harian) dan durasi sedang jauh lebih aman dan berkelanjutan bagi pemula sebelum mencoba intensitas tinggi."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Mengapa istirahat (recovery) dianggap sebagai bagian integral yang sama pentingnya dengan latihan itu sendiri?",
+          "pilihan": [
+            { "id": "A", "teks": "Karena saat beristirahat dan tidurlah tubuh memperbaiki serat mikro otot dan mengisi kembali cadangan glikogen" },
+            { "id": "B", "teks": "Supaya kita tidak perlu makan makanan bergizi" },
+            { "id": "C", "teks": "Karena tubuh akan kehilangan otot saat beristirahat" },
+            { "id": "D", "teks": "Hanya sebagai alasan untuk bermalas-malasan sepanjang bulan" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Latihan memberi rangsangan perusakan mikro pada serat otot. Pemulihan (tidur dan nutrisi) adalah momen di mana tubuh membangun otot baru yang lebih adaptif dan kuat."
+        }
+      ]
+    },
+    {
+      "id": "bab-3",
+      "nomor": 3,
+      "judul": "Pencegahan Cedera & Pertolongan Pertama (P.R.I.C.E)",
+      "deskripsi": "Langkah pemanasan dan pendinginan yang benar, serta protokol pertolongan pertama pada cedera otot akut dan terkilir.",
+      "estimasiMenit": 6,
+      "sections": [
+        {
+          "subjudul": "Pemanasan (Warm-Up) & Pendinginan (Cool-Down)",
+          "penjelasan": "Banyak cedera olahraga pada masyarakat terjadi karena melewatkan pemanasan atau langsung berhenti mendadak tanpa pendinginan. Pemanasan meningkatkan suhu otot, melumasi sendi, dan menaikkan denyut nadi perlahan.",
+          "poinPenting": [
+            "Pemanasan (5-10 menit): menaikkan suhu jaringan ikat ligamen sehingga lebih lentur dan tahan robek.",
+            "Pendinginan (5-10 menit): membantu mengembalikan darah dari otot ke jantung dan mempercepat pembuangan asam laktat.",
+            "Gunakan sepatu dan pakaian yang sesuai dengan jenis aktivitas permukaan."
+          ],
+          "tipsPraktis": "Gunakan aturan '3 Fase': Pemanasan -> Latihan Inti -> Pendinginan. Jangan pernah memotong fase pemanasan meski waktu sempit.",
+          "visual": {
+            "type": "step-by-step",
+            "tag": "Fase Latihan",
+            "judul": "Struktur Sesi Latihan yang Aman",
+            "items": [
+              { "judul": "Fase 1: Pemanasan Dinamis (5-10 mnt)", "deskripsi": "Gerakan melingkar sendi, jalan di tempat, peregangan aktif bertahap." },
+              { "judul": "Fase 2: Latihan Inti (20-40 mnt)", "deskripsi": "Aktivitas kardio, kekuatan, atau olahraga permainan sesuai target." },
+              { "judul": "Fase 3: Pendinginan Statis (5 mnt)", "deskripsi": "Peregangan pasif ditahan 15-20 detik tiap otot besar untuk relaksasi." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Protokol P.R.I.C.E. pada Cedera Akut (Keseleo/Sprain)",
+          "penjelasan": "Jika terjadi cedera akut tertutup seperti terkilir/keseleo pergelangan kaki atau memar benturan, terapkan metode pertolongan pertama internasional P.R.I.C.E. dalam kurun waktu 24-48 jam pertama.",
+          "poinPenting": [
+            "P - Protect (Lindungi): Lindungi area yang cedera dari benturan lanjutan.",
+            "R - Rest (Istirahatkan): Segera hentikan aktivitas fisik pada bagian yang sakit.",
+            "I - Ice (Kompres Es): Tempelkan es yang dibungkus kain selama 15-20 menit setiap 2-3 jam untuk mengurangi bengkak.",
+            "C - Compression (Bebat Tekan): Balut dengan perban elastis (tensocrepe) secara pas dan tidak terlalu ketat.",
+            "E - Elevation (Tinggikan): Posisikan bagian cedera lebih tinggi dari posisi jantung untuk memperlancar aliran cairan bengkak kembali."
+          ],
+          "tipsPraktis": "JANGAN memijat/mengurut (massage) keras atau mengompres air panas pada cedera baru dalam 48 jam pertama karena akan memperparah pendarahan dalam.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Pertolongan Pertama",
+            "judul": "Protokol P.R.I.C.E. untuk Cedera Terkilir",
+            "items": [
+              { "judul": "P - Protect", "deskripsi": "Pasang penyangga atau hindari pijakan berat." },
+              { "judul": "R - Rest", "deskripsi": "Hentikan olahraga seketika, jangan dipaksakan jalan." },
+              { "judul": "I - Ice", "deskripsi": "Kompres dingin 15-20 menit dengan handuk pelindung." },
+              { "judul": "C - Compress", "deskripsi": "Balut dengan perban elastis rapi dan tidak mematikan nadi." },
+              { "judul": "E - Elevate", "deskripsi": "Sangga pergelangan kaki dengan bantal lebih tinggi dari dada." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Praktik Pemanasan Sendi 5 Menit",
+          "keterangan": "Mulai dari putaran leher perlahan, putaran lengan, putaran pinggul, hingga engkel kaki."
+        },
+        {
+          "langkah": "Simulasi Kompres Es yang Aman",
+          "keterangan": "Bungkus es batu dengan kain bersih tipis (jangan langsung menempelkan es ke kulit telanjang) dan tempelkan selama 15 menit."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Apa tujuan fisiologis utama melakukan pemanasan (warm-up) sebelum berolahraga?",
+          "pilihan": [
+            { "id": "A", "teks": "Menaikkan suhu otot dan melumasi persendian untuk mencegah robekan serat otot" },
+            { "id": "B", "teks": "Membuat tubuh cepat lelah sebelum mulai" },
+            { "id": "C", "teks": "Mengurangi asupan oksigen ke otak" },
+            { "id": "D", "teks": "Menghabiskan seluruh tenaga cadangan" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Pemanasan meningkatkan elastisitas otot dan jaringan ligamen melalui kenaikan suhu lokal dan aktivasi cairan sendi (synovial fluid), sehingga risiko terkilir jauh lebih kecil."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Apakah kepanjangan dari metode pertolongan pertama P.R.I.C.E. pada cedera terkilir akut?",
+          "pilihan": [
+            { "id": "A", "teks": "Protect, Rest, Ice, Compression, Elevation" },
+            { "id": "B", "teks": "Push, Run, Intense, Calm, Energy" },
+            { "id": "C", "teks": "Practice, Relax, Indoors, Cardio, Exercise" },
+            { "id": "D", "teks": "Pain, Recovery, Inhale, Clean, Eat" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "PRICE adalah standar pertolongan pertama: Protect (lindungi), Rest (istirahatkan), Ice (kompres es), Compression (bebat perban tekan), dan Elevation (tinggikan di atas dada)."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Tindakan apakah yang SANGAT TIDAK DIANJURKAN dilakukan pada cedera pergelangan kaki terkilir yang baru terjadi dalam 48 jam pertama?",
+          "pilihan": [
+            { "id": "A", "teks": "Mengistirahatkan kaki dari beban" },
+            { "id": "B", "teks": "Memijat keras (massage) dan mengompresnya dengan air panas" },
+            { "id": "C", "teks": "Mengompres dingin dengan es berbalut kain" },
+            { "id": "D", "teks": "Meninggikan posisi kaki saat berbaring" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Pijatan keras dan kompres panas pada 48 jam pertama menyebabkan vasodilatasi pembuluh darah sehingga pendarahan internal dan pembengkakan bertambah parah (bahaya HARM: Heat, Alcohol, Running, Massage)."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Berapa lama durasi kompres es yang ideal pada satu kali sesi penanganan cedera akut?",
+          "pilihan": [
+            { "id": "A", "teks": "Cukup 5 detik saja" },
+            { "id": "B", "teks": "15 hingga 20 menit" },
+            { "id": "C", "teks": "5 jam tanpa diangkat" },
+            { "id": "D", "teks": "24 jam berturut-turut di dalam freezer" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Kompres es selama 15-20 menit cukup untuk mengecilkan pembuluh darah yang cedera (vasokonstriksi) tanpa menyebabkan cedera dingin (frostbite) pada permukaan kulit."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Mengapa pada saat pendinginan (cool-down) disarankan menggunakan peregangan statis yang ditahan 15-30 detik?",
+          "pilihan": [
+            { "id": "A", "teks": "Untuk membantu mengembalikan panjang serat otot ke posisi rileks dan meredakan ketegangan sistem saraf" },
+            { "id": "B", "teks": "Agar otot langsung mengeras seperti batu" },
+            { "id": "C", "teks": "Karena pendinginan tidak memiliki manfaat apa pun" },
+            { "id": "D", "teks": "Supaya detak jantung mendadak berhenti total" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Setelah kontraksi berulang saat berolahraga, peregangan pasif statis yang ditahan lembut membantu menormalkan kembali tonus otot dan menurunkan hormon stres tubuh."
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,379 @@
+{
+  "kategoriId": "latihan-10-menit",
+  "kategoriJudul": "Latihan 10 Menit",
+  "babList": [
+    {
+      "id": "bab-1",
+      "nomor": 1,
+      "judul": "Peregangan & Mobilitas Pagi: Bangunkan Tubuh Tanpa Pegal",
+      "deskripsi": "Rangkaian peregangan dinamis dan sendi selama 10 menit untuk melenturkan otot yang kaku setelah tidur malam.",
+      "estimasiMenit": 5,
+      "sections": [
+        {
+          "subjudul": "Mengapa Mobilitas Pagi Begitu Berharga?",
+          "penjelasan": "Saat tidur, tubuh kita relatif diam selama berjam-jam sehingga cairan sinovial di persendian cenderung mengental dan otot terasa kaku. Peregangan dinamis pagi hari merangsang sirkulasi darah segar ke seluruh persendian dan otot sebelum memulai aktivitas berat.",
+          "poinPenting": [
+            "Peregangan dinamis (bergerak teratur) lebih disarankan di pagi hari dibanding peregangan statis yang ditahan terlalu lama.",
+            "Melancarkan aliran darah ke otak sehingga rasa kantuk hilang lebih cepat secara alami.",
+            "Membantu meluruskan postur tubuh dan mengurangi ketegangan di leher serta bahu."
+          ],
+          "tipsPraktis": "Lakukan peregangan dengan pakaian longgar dan di atas matras atau lantai bersih. Bernapaslah teratur tanpa menahan napas.",
+          "visual": {
+            "type": "step-by-step",
+            "tag": "Urutan Gerakan",
+            "judul": "Siklus 10 Menit Peregangan Dinamis Pagi",
+            "items": [
+              { "judul": "Menit 1-2: Putaran Leher & Bahu", "deskripsi": "Putar bahu ke depan dan belakang secara perlahan 10 kali putaran." },
+              { "judul": "Menit 3-5: Cat-Cow Stretch", "deskripsi": "Posisi merangkak, lengkungkan punggung ke atas (napas keluar), lalu turunkan perut dan angkat dagu (napas masuk)." },
+              { "judul": "Menit 6-8: Torso Twist & Hip Opener", "deskripsi": "Buka kaki selebar bahu, putar torso perlahan ke kiri dan kanan untuk melenturkan tulang belakang." },
+              { "judul": "Menit 9-10: Child's Pose Relaksasi", "deskripsi": "Duduk di atas tumit, julurkan kedua tangan ke depan lantai dan rasakan regangan punggung belakang." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Hindari Kesalahan Saat Peregangan",
+          "penjelasan": "Peregangan harus memberi sensasi regang yang nyaman, bukan rasa nyeri tajam atau menusuk. Memaksa otot yang masih dingin dapat memicu ketegangan berlebih.",
+          "poinPenting": [
+            "Jangan menghentak-hentakkan tubuh secara kasar (bouncing).",
+            "Jaga ritme napas tetap mengalir tenang seiring setiap gerakan.",
+            "Jika memiliki riwayat saraf kejepit atau cedera leher, hindari memutar leher secara ekstrem."
+          ],
+          "tipsPraktis": "Minum setengah gelas air sebelum memulai agar sel-sel otot terhidrasi.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Rambu Keamanan",
+            "judul": "Aturan Emas Peregangan Sehat",
+            "items": [
+              { "judul": "Rasa Regang Nyaman", "deskripsi": "Otot terasa ditarik ringan dan menyegarkan." },
+              { "judul": "Bukan Nyeri Menusuk", "deskripsi": "Segera kurangi rentang gerak bila terasa sakit atau perih." },
+              { "judul": "Keteraturan Napas", "deskripsi": "Hirup lewat hidung dan buang perlahan lewat bibir." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Gerakan Cat-Cow (Kucing-Sapi)",
+          "keterangan": "Lakukan 8-10 siklus perlahan di atas lantai atau kasur datar untuk meredakan kaku tulang punggung."
+        },
+        {
+          "langkah": "Rotasi Pergelangan Kaki & Tangan",
+          "keterangan": "Putar masing-masing pergelangan 10 kali searah jarum jam dan sebaliknya untuk menyiapkan mobilitas langkah kaki."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Jenis peregangan apakah yang paling direkomendasikan saat baru bangun tidur sebelum beraktivitas?",
+          "pilihan": [
+            { "id": "A", "teks": "Peregangan dinamis (bergerak berirama perlahan)" },
+            { "id": "B", "teks": "Peregangan ekstrem dengan beban berat" },
+            { "id": "C", "teks": "Menghentak-hentakkan sendi sekeras mungkin" },
+            { "id": "D", "teks": "Tidak bergerak sama sekali hingga siang hari" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Peregangan dinamis mengalirkan darah secara lembut ke otot dan sendi yang masih kaku setelah tidur malam tanpa membebani ligamen."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Apa manfaat utama dari gerakan 'Cat-Cow Stretch' pada tulang belakang?",
+          "pilihan": [
+            { "id": "A", "teks": "Membentuk otot bisep lengan secara instan" },
+            { "id": "B", "teks": "Meningkatkan fleksibilitas dan meredakan ketegangan di sepanjang ruas tulang belakang" },
+            { "id": "C", "teks": "Menambah tinggi badan 10 cm dalam satu hari" },
+            { "id": "D", "teks": "Menghentikan detak jantung sementara" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Cat-Cow Stretch menggerakkan tulang belakang secara fleksibel ke arah fleksi dan ekstensi, sangat bermanfaat meredakan kaku pinggang dan punggung atas."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Bagaimanakah pengaturan pernapasan yang tepat selama melakukan peregangan?",
+          "pilihan": [
+            { "id": "A", "teks": "Menahan napas selama mungkin sampai pusing" },
+            { "id": "B", "teks": "Bernapas cepat dan tersengal-sengal" },
+            { "id": "C", "teks": "Bernapas dalam, tenang, dan teratur mengikuti ritme gerakan" },
+            { "id": "D", "teks": "Hanya bernapas lewat telinga" }
+          ],
+          "kunciJawaban": "C",
+          "pembahasan": "Pernapasan yang mengalir tenang memastikan pasokan oksigen ke otot tetap cukup dan membantu sistem saraf rileks sehingga otot tidak melawan saat diregangkan."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Berapakah durasi total rutinitas mobilitas pagi yang praktis namun berdampak besar bagi kebugaran harian?",
+          "pilihan": [
+            { "id": "A", "teks": "Hanya 5 detik" },
+            { "id": "B", "teks": "Sekitar 10 menit" },
+            { "id": "C", "teks": "5 jam tanpa istirahat" },
+            { "id": "D", "teks": "Harus 24 jam berturut-turut" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Rutinitas 10 menit sangat realistis untuk dijalankan secara konsisten setiap pagi tanpa mengganggu jadwal kerja atau sekolah."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Apa tanda bahwa peregangan yang dilakukan sudah berlebihan atau berisiko cedera?",
+          "pilihan": [
+            { "id": "A", "teks": "Tubuh terasa lebih segar dan ringan" },
+            { "id": "B", "teks": "Timbul rasa nyeri tajam, menusuk, atau sensasi terbakar pada sendi" },
+            { "id": "C", "teks": "Otot terasa hangat dan rileks" },
+            { "id": "D", "teks": "Rasa kantuk mulai berkurang" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Peregangan seharusnya nyaman (sweet discomfort). Jika timbul rasa sakit menusuk atau perih tajam, segera hentikan gerakan karena itu sinyal potensi robekan serat otot atau ligamen."
+        }
+      ]
+    },
+    {
+      "id": "bab-2",
+      "nomor": 2,
+      "judul": "Kardio Ringan Tanpa Alat: Bakar Kalori di Rumah",
+      "deskripsi": "Protokol sirkuit 10 menit latihan kardio aerobik yang ramah sendi, bisa dilakukan di ruang terbatas tanpa perlengkapan khusus.",
+      "estimasiMenit": 6,
+      "sections": [
+        {
+          "subjudul": "Sirkuit Kardio 10 Menit untuk Masyarakat",
+          "penjelasan": "Latihan sirkuit menggabungkan beberapa gerakan berulang dengan jeda istirahat singkat. Metode ini sangat efisien untuk membakar kalori, mengaktifkan paru-paru, dan menaikkan denyut nadi sehat dalam waktu singkat.",
+          "poinPenting": [
+            "Bisa dilakukan di ruang tamu atau kamar tidur ukuran 2x2 meter.",
+            "Dapat dimodifikasi menjadi 'Low Impact' (tanpa melompat) untuk melindungi persendian lutut.",
+            "Meningkatkan sensitivitas insulin dan metabolisme glukosa setelah duduk seharian."
+          ],
+          "tipsPraktis": "Gunakan alas kaki olahraga yang empuk jika lantai rumah licin atau berbahan keras.",
+          "visual": {
+            "type": "step-by-step",
+            "tag": "Sirkuit Gerakan",
+            "judul": "Struktur 4 Gerakan Kardio 10 Menit (2 Putaran)",
+            "items": [
+              { "judul": "Gerakan 1: Marching in Place (Jalan di Tempat)", "deskripsi": "45 detik jalan di tempat dengan ayunan tangan tinggi, 15 detik istirahat napas." },
+              { "judul": "Gerakan 2: Step Jacks / Low Jumping Jacks", "deskripsi": "45 detik melangkah ke samping bergantian sambil membuka tangan ke atas tanpa lonjakan keras, 15 detik jeda." },
+              { "judul": "Gerakan 3: Butt Kicks & High Knees Modifikasi", "deskripsi": "45 detik mengangkat tumit ke arah bokong dan lutut sejajar pinggang bergantian, 15 detik jeda." },
+              { "judul": "Gerakan 4: Shadow Boxing / Pukulan Berirama", "deskripsi": "45 detik pukulan lurus berirama ke depan sambil mengayunkan langkah kaki, 15 detik jeda." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Tips Pemulihan & Hidrasi Cepat",
+          "penjelasan": "Setelah menyelesaikan 2 putaran (total 10 menit), jangan langsung duduk atau merebahkan diri seketika. Berjalan santailah perlahan di tempat agar peredaran darah kembali stabil.",
+          "poinPenting": [
+            "Pendinginan 1-2 menit dengan jalan santai menurunkan detak jantung secara aman.",
+            "Teguk air putih sedikit demi sedikit, jangan menenggak sekaligus dalam jumlah sangat banyak saat terengah-engah.",
+            "Catat progres konsistensi Anda setiap hari di halaman progres aplikasi."
+          ],
+          "tipsPraktis": "Lakukan latihan ini 3-4 kali seminggu untuk merasakan peningkatan stamina tubuh dalam 2 minggu pertama.",
+          "visual": {
+            "type": "comparison",
+            "tag": "Opsi Penyesuaian",
+            "judul": "Modifikasi Tingkat Latihan",
+            "items": [
+              { "judul": "Versi Low-Impact (Ramah Lutut)", "deskripsi": "Tanpa melompat, satu kaki selalu menapak di lantai. Sangat aman bagi berat badan berlebih atau lansia." },
+              { "judul": "Versi Intensitas Sedang", "deskripsi": "Menambahkan lompatan kecil ringan dan tempo gerakan yang lebih bersemangat." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Set 1 Putaran Pertama",
+          "keterangan": "Lakukan keempat gerakan berurutan masing-masing 45 detik kerja dan 15 detik istirahat (total 4 menit)."
+        },
+        {
+          "langkah": "Jeda Antar Putaran",
+          "keterangan": "Istirahat minum air putih selama 1 menit."
+        },
+        {
+          "langkah": "Set 2 Putaran Kedua & Pendinginan",
+          "keterangan": "Ulangi keempat gerakan (4 menit) lalu lakukan pendinginan santai 1 menit."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Apa keunggulan utama latihan kardio dengan pola sirkuit (circuit training) bagi orang yang sibuk?",
+          "pilihan": [
+            { "id": "A", "teks": "Membutuhkan waktu 3 jam setiap sesi" },
+            { "id": "B", "teks": "Mampu meningkatkan kerja jantung dan membakar kalori optimal dalam durasi singkat" },
+            { "id": "C", "teks": "Hanya boleh dilakukan atlet profesional berlisensi" },
+            { "id": "D", "teks": "Wajib menggunakan mesin treadmill canggih" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Latihan sirkuit efisien karena memadukan gerakan beruntun dengan istirahat terukur, memberikan stimulasi kardiovaskular tinggi dalam waktu singkat."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Bagaimanakah modifikasi 'Low-Impact' pada gerakan jumping jack?",
+          "pilihan": [
+            { "id": "A", "teks": "Melompat setinggi 1 meter ke atas kasur" },
+            { "id": "B", "teks": "Melangkahkan satu kaki ke samping bergantian tanpa melompat kedua kaki sekaligus" },
+            { "id": "C", "teks": "Berlari kencang keluar rumah" },
+            { "id": "D", "teks": "Duduk diam sambil menutup mata" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Step Jacks (modifikasi low-impact) menghilangkan hentakan benturan lompatan sehingga sangat aman bagi sendi lutut namun tetap melatih detak jantung."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Mengapa kita TIDAK dianjurkan langsung duduk atau merebahkan diri seketika setelah selesai latihan kardio?",
+          "pilihan": [
+            { "id": "A", "teks": "Karena dapat menyebabkan penumpukan darah di tungkai bawah (blood pooling) dan rasa pusing" },
+            { "id": "B", "teks": "Karena kalori yang dibakar akan langsung kembali" },
+            { "id": "C", "teks": "Karena kasur akan rusak terkena keringat" },
+            { "id": "D", "teks": "Karena udara di ruangan akan habis" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Menghentikan gerakan tiba-tiba tanpa pendinginan membuat darah menumpuk di ekstremitas bawah dan menurunkan tekanan darah ke otak mendadak sehingga kepala bisa berkunang-kunang."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Berapakah rasio kerja dan istirahat yang ideal untuk sirkuit kardio 10 menit bagi pemula?",
+          "pilihan": [
+            { "id": "A", "teks": "10 detik gerak, 50 detik istirahat" },
+            { "id": "B", "teks": "40-45 detik gerak teratur, 15-20 detik jeda napas" },
+            { "id": "C", "teks": "5 menit tanpa napas sama sekali" },
+            { "id": "D", "teks": "Bergerak 1 jam tanpa henti" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Rasio 40-45 detik aktivitas terkontrol dan 15-20 detik jeda napas memungkinkan otot beradaptasi tanpa memicu kelelahan ekstrem."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Perlengkapan apakah yang mutlak diperlukan untuk memulai sirkuit kardio 10 menit ini di rumah?",
+          "pilihan": [
+            { "id": "A", "teks": "Barbel besi 20 kg dan suplemen mahal" },
+            { "id": "B", "teks": "Tidak memerlukan alat khusus, cukup pakaian nyaman dan ruang gerak secukupnya" },
+            { "id": "C", "teks": "Sepeda statis digital" },
+            { "id": "D", "teks": "Seragam atlet khusus olimpiade" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Kebugaran adalah hak setiap orang; sirkuit kalistenik dasar hanya mengandalkan bobot tubuh sendiri (bodyweight) tanpa beban biaya perlengkapan."
+        }
+      ]
+    },
+    {
+      "id": "bab-3",
+      "nomor": 3,
+      "judul": "Penguatan Otot Inti (Core) & Postur Tegak",
+      "deskripsi": "Memperkuat otot perut, punggung bawah, dan panggul untuk melindungi tulang belakang dan mencegah nyeri pinggang (LBP).",
+      "estimasiMenit": 6,
+      "sections": [
+        {
+          "subjudul": "Otot Inti (Core): Pondasi Kestabilan Tubuh",
+          "penjelasan": "Otot inti bukan hanya otot 'six-pack' luar (rectus abdominis), melainkan sabuk otot alami di sekeliling panggul, pinggang, dan punggung bawah (transversus abdominis, erector spinae, dan otot dasar panggul). Otot inti yang kuat adalah kunci postur tubuh yang tegak dan bebas pegal.",
+          "poinPenting": [
+            "Menopang tulang belakang saat kita mengangkat belanjaan, berjalan, atau duduk di depan laptop.",
+            "Mencegah keluhan Lower Back Pain (nyeri pinggang bawah) yang sering melanda pekerja kantoran.",
+            "Memperbaiki keseimbangan tubuh sehingga tidak mudah terpeleset atau jatuh."
+          ],
+          "tipsPraktis": "Kunci perut perlahan seperti saat Anda menahan celana yang sedikit sempit, tetapi tetap bernapas normal.",
+          "visual": {
+            "type": "step-by-step",
+            "tag": "Gerakan Inti",
+            "judul": "3 Gerakan Penguat Core Ramah Pemula",
+            "items": [
+              { "judul": "1. Glute Bridge (Jembatan Pinggul)", "deskripsi": "Berbaring terlentang, tekuk lutut, lalu angkat pinggul hingga sejajar paha dan dada. Tahan 3 detik di atas lalu turunkan." },
+              { "judul": "2. Bird-Dog Pose", "deskripsi": "Posisi merangkak empat titik. Julurkan tangan kanan lurus ke depan dan kaki kiri lurus ke belakang secara serentak. Tahan 3 detik lalu ganti sisi." },
+              { "judul": "3. Forearm Plank Modifikasi (Lutut di Lantai)", "deskripsi": "Tumpukan beban pada lengan bawah dan lutut, luruskan punggung dari kepala hingga lutut. Tahan 20-30 detik." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Koreksi Postur Sehari-hari",
+          "penjelasan": "Latihan 10 menit akan jauh lebih berdaya guna jika diimbangi kesadaran postur saat duduk dan berdiri dalam aktivitas sehari-hari.",
+          "poinPenting": [
+            "Hindari membungkuk (slouching) dengan mendekatkan dagu ke arah dada secara rileks.",
+            "Pastikan kedua telapak kaki menapak rata di lantai saat duduk di kursi kerja.",
+            "Posisikan layar monitor sejajar dengan garis pandang mata."
+          ],
+          "tipsPraktis": "Pasang stiker pengingat 'Tegak & Senyum' di dekat layar komputer Anda sebagai sinyal visual.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Cek Postur",
+            "judul": "Checklist Postur Duduk Ergonomis",
+            "items": [
+              { "judul": "Sudut Siku & Lutut 90°", "deskripsi": "Sendi tidak tertekuk terlalu tajam untuk kelancaran darah." },
+              { "judul": "Punggung Tertopang", "deskripsi": "Gunakan bantal kecil di lekukan pinggang bawah bila kursi terlalu datar." },
+              { "judul": "Bahu Rileks Turun", "deskripsi": "Jangan menarik bahu mendekati telinga saat mengetik." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Glute Bridge 10 Repetisi",
+          "keterangan": "Lakukan 2 set masing-masing 10 repetisi dengan kontraksi mantap pada otot bokong di puncak gerakan."
+        },
+        {
+          "langkah": "Bird-Dog 8 Kali Tiap Sisi",
+          "keterangan": "Fokus pada kestabilan tubuh tanpa membiarkan pinggul miring ke satu sisi."
+        },
+        {
+          "langkah": "Plank Modifikasi 30 Detik",
+          "keterangan": "Tahan posisi plank berlutut selama 30 detik sambil menjaga napas teratur."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Bagian otot manakah yang sebenarnya menyusun 'otot inti' (core muscle) manusia?",
+          "pilihan": [
+            { "id": "A", "teks": "Hanya otot bisep di kedua lengan" },
+            { "id": "B", "teks": "Sekumpulan otot di sekeliling perut, panggul, punggung bawah, dan diafragma" },
+            { "id": "C", "teks": "Hanya otot betis bagian belakang" },
+            { "id": "D", "teks": "Kuku dan rambut" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Core muscle adalah pusat gravitasi tubuh yang terdiri dari transversus abdominis, otot punggung bawah, otot pinggul, dan dasar panggul yang bekerja bersama sebagai penopang utama."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Apa manfaat utama melatih otot inti bagi orang yang sering bekerja duduk di depan meja?",
+          "pilihan": [
+            { "id": "A", "teks": "Mengurangi dan mencegah keluhan nyeri punggung bawah (lower back pain)" },
+            { "id": "B", "teks": "Membuat orang tidak perlu tidur malam lagi" },
+            { "id": "C", "teks": "Menghilangkan kebutuhan makan serat" },
+            { "id": "D", "teks": "Mempercepat pertumbuhan gigi baru" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Otot inti yang kuat menstabilkan ruas tulang belakang sehingga tekanan saat duduk tidak menumpuk di bantalan sendi punggung bawah."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Bagaimana posisi punggung yang benar saat melakukan gerakan Forearm Plank?",
+          "pilihan": [
+            { "id": "A", "teks": "Punggung melengkung turun ke lantai menyerupai jembatan gantung" },
+            { "id": "B", "teks": "Bokong diangkat sangat tinggi ke atas membentuk segitiga tajam" },
+            { "id": "C", "teks": "Garis lurus netral dari kepala, punggung, hingga tumit (atau lutut pada modifikasi)" },
+            { "id": "D", "teks": "Kepala ditekuk ke dalam hingga mencium lantai" }
+          ],
+          "kunciJawaban": "C",
+          "pembahasan": "Posisi lurus netral (neutral spine) memastikan kontraksi otot perut optimal tanpa membebani ligamen pinggang bawah secara berlebihan."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Gerakan 'Bird-Dog' sangat efektif untuk melatih...",
+          "pilihan": [
+            { "id": "A", "teks": "Keseimbangan koordinasi silang dan stabilitas otot punggung multifidus" },
+            { "id": "B", "teks": "Kekuatan jari manis tangan saja" },
+            { "id": "C", "teks": "Kemampuan melompat tinggi di udara" },
+            { "id": "D", "teks": "Kemampuan bernyanyi nada tinggi" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Bird-Dog melatih pola kontraksi diagonal (cross-body stability) yang sangat vital dalam aktivitas fungsional seperti berjalan dan berlari."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Untuk pemula yang belum sanggup melakukan full plank di ujung jari kaki, modifikasi apakah yang paling tepat?",
+          "pilihan": [
+            { "id": "A", "teks": "Memaksakan diri hingga terjatuh ke lantai" },
+            { "id": "B", "teks": "Meletakkan kedua lutut di matras sebagai tumpuan (knee plank)" },
+            { "id": "C", "teks": "Menggantung di langit-langit rumah" },
+            { "id": "D", "teks": "Berhenti berolahraga selamanya" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Knee plank memperpendek tuas beban tubuh sehingga pemula dapat mengaktifkan otot perut secara tepat dengan postur sempurna sebelum beralih ke full plank."
+        }
+      ]
+    }
+  ]
+}
+

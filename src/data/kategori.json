@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kebugaran",
+    "slug": "kebugaran",
+    "judul": "Kebugaran Jasmani",
+    "deskripsi": "Panduan komprehensif memahami daya tahan tubuh, kebugaran kardiorespirasi, pola tidur, dan nutrisi aktif untuk aktivitas harian.",
+    "icon": "HeartPulse",
+    "warna": "emerald",
+    "badge": "Fondasi Utama",
+    "estimasiTotal": "20 Menit",
+    "jumlahBab": 3
+  },
+  {
+    "id": "latihan-10-menit",
+    "slug": "latihan-10-menit",
+    "judul": "Latihan 10 Menit",
+    "deskripsi": "Gerakan praktis berdurasi singkat tanpa alat untuk masyarakat sibuk. Cocok dilakukan di rumah, kantor, atau waktu luang.",
+    "icon": "Timer",
+    "warna": "teal",
+    "badge": "Praktis & Efektif",
+    "estimasiTotal": "30 Menit",
+    "jumlahBab": 3
+  },
+  {
+    "id": "materi-penjas",
+    "slug": "materi-penjas",
+    "judul": "Materi Penjas",
+    "deskripsi": "Konsep ilmiah pendidikan jasmani, prinsip latihan FITT, pencegahan cedera olahraga, dan pertolongan pertama.",
+    "icon": "GraduationCap",
+    "warna": "green",
+    "badge": "Teori & Edukasi",
+    "estimasiTotal": "25 Menit",
+    "jumlahBab": 3
+  }
+]
+

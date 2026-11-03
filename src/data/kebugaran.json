@@ -1,0 +1,378 @@
+{
+  "kategoriId": "kebugaran",
+  "kategoriJudul": "Kebugaran Jasmani",
+  "babList": [
+    {
+      "id": "bab-1",
+      "nomor": 1,
+      "judul": "Hakikat Kebugaran Jasmani & Manfaat Hidup Sehat",
+      "deskripsi": "Memahami makna sejati kebugaran jasmani, perbedaan aktivitas fisik dengan olahraga, serta manfaat kesehatan menyeluruh.",
+      "estimasiMenit": 5,
+      "sections": [
+        {
+          "subjudul": "Apa Itu Kebugaran Jasmani?",
+          "penjelasan": "Kebugaran jasmani adalah kesanggupan dan kemampuan tubuh untuk melakukan pekerjaan atau aktivitas sehari-hari tanpa mengalami kelelahan yang berlebihan, serta masih memiliki cadangan energi untuk menikmati waktu luang maupun menghadapi keadaan darurat.",
+          "poinPenting": [
+            "Bugar berbeda dengan sekadar 'tidak sakit'. Orang yang sehat belum tentu memiliki kebugaran fisik yang optimal.",
+            "Tingkat kebugaran memengaruhi produktivitas kerja, ketajaman konsentrasi, dan ketahanan terhadap penyakit menular maupun kronis.",
+            "Aktivitas fisik adalah setiap gerakan tubuh yang membakar energi, sedangkan olahraga adalah aktivitas fisik yang terencana, terstruktur, dan berkesinambungan."
+          ],
+          "tipsPraktis": "Mulailah dengan mengurangi waktu duduk terlalu lama (sedentary lifestyle). Lakukan peregangan singkat setiap 45 menit saat bekerja.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Pilar Utama",
+            "judul": "3 Pilar Kebugaran Berkelanjutan",
+            "items": [
+              { "judul": "Aktivitas Fisik Rutin", "deskripsi": "Minimal 150 menit per minggu aktivitas sedang." },
+              { "judul": "Nutrisi Seimbang & Hidrasi", "deskripsi": "Kecukupan cairan 2-2.5 liter per hari dan makanan bergizi." },
+              { "judul": "Istirahat Berkualitas", "deskripsi": "Tidur malam 7-8 jam untuk regenerasi sel tubuh." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Manfaat Jangka Pendek & Jangka Panjang",
+          "penjelasan": "Melakukan aktivitas kebugaran secara konsisten memberikan dampak nyata langsung pada suasana hati (mood) berkat pelepasan hormon endorfin, sekaligus melindungi organ vital seperti jantung, paru-paru, dan pembuluh darah dari risiko komplikasi di masa tua.",
+          "poinPenting": [
+            "Menurunkan risiko penyakit kardiovaskular, hipertensi, dan diabetes tipe 2.",
+            "Meningkatkan kualitas tidur malam dan mengurangi stres psikologis.",
+            "Mempertahankan kepadatan tulang dan kekuatan sendi hingga usia lanjut."
+          ],
+          "tipsPraktis": "Gunakan tangga daripada lift untuk 1-2 lantai bila kondisi fisik memungkinkan.",
+          "visual": {
+            "type": "comparison",
+            "tag": "Perbandingan Gaya Hidup",
+            "judul": "Gaya Hidup Sedenter vs Aktif Bugar",
+            "items": [
+              { "judul": "Tubuh Pasif / Sedenter", "deskripsi": "Sering lesu, metabolisme lambat, risiko kaku otot leher & pinggang." },
+              { "judul": "Tubuh Aktif Bugar", "deskripsi": "Energi stabil seharian, sirkulasi darah lancar, fokus mental tajam." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Evaluasi Waktu Duduk Harian",
+          "keterangan": "Hitung berapa jam Anda duduk dalam sehari. Usahakan berdiri dan berjalan kaki 2 menit setiap 1 jam."
+        },
+        {
+          "langkah": "Target Langkah Kaki Harian",
+          "keterangan": "Mulai target sederhana 5.000 hingga 7.500 langkah setiap hari menggunakan pedometer di HP."
+        },
+        {
+          "langkah": "Pernapasan Diafragma 3 Menit",
+          "keterangan": "Tarik napas dalam lewat hidung selama 4 detik, tahan 2 detik, lalu buang perlahan lewat mulut 6 detik untuk relaksasi detak jantung."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Apa pengertian kebugaran jasmani yang paling tepat bagi kehidupan masyarakat?",
+          "pilihan": [
+            { "id": "A", "teks": "Kemampuan berlari maraton 42 km tanpa henti." },
+            { "id": "B", "teks": "Kondisi tidak pernah masuk rumah sakit seumur hidup." },
+            { "id": "C", "teks": "Kesanggupan tubuh menjalankan tugas harian tanpa lelah berlebih dan masih memiliki sisa energi." },
+            { "id": "D", "teks": "Memiliki bentuk tubuh berotot besar dan berat badan sangat kurus." }
+          ],
+          "kunciJawaban": "C",
+          "pembahasan": "Kebugaran jasmani diartikan sebagai kapasitas tubuh untuk menjalani rutinitas harian dengan nyaman tanpa kelelahan berlebih, serta masih menyimpan cadangan energi untuk kebutuhan mendadak atau rekreasi."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Apa perbedaan mendasar antara aktivitas fisik dan olahraga?",
+          "pilihan": [
+            { "id": "A", "teks": "Aktivitas fisik hanya dilakukan atlet, olahraga untuk masyarakat umum." },
+            { "id": "B", "teks": "Olahraga bersifat terencana, terstruktur, dan berkesinambungan, sedangkan aktivitas fisik mencakup semua gerakan tubuh yang mengeluarkan energi." },
+            { "id": "C", "teks": "Aktivitas fisik selalu berbahaya sedangkan olahraga selalu aman." },
+            { "id": "D", "teks": "Tidak ada perbedaan antara aktivitas fisik dan olahraga." }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Menyapu, berjalan ke warung, atau naik tangga adalah contoh aktivitas fisik. Bila gerakan tersebut dirancang teratur dengan pola latihan tertentu (seperti jogging 30 menit atau senam), maka itu disebut olahraga."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Berapa anjuran minimal waktu akumulasi aktivitas fisik sedang per minggu menurut standar kesehatan?",
+          "pilihan": [
+            { "id": "A", "teks": "15 menit per minggu" },
+            { "id": "B", "teks": "150 menit per minggu" },
+            { "id": "C", "teks": "1000 menit per minggu" },
+            { "id": "D", "teks": "Cukup 5 menit satu kali sebulan" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Organisasi kesehatan merekomendasikan minimal 150 menit aktivitas fisik intensitas sedang per minggu (misalnya 30 menit per hari selama 5 hari) untuk menjaga kesehatan jantung dan metabolisme."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Hormon apa yang dilepaskan tubuh saat berolahraga sehingga membantu meningkatkan suasana hati dan mengurangi stres?",
+          "pilihan": [
+            { "id": "A", "teks": "Endorfin" },
+            { "id": "B", "teks": "Insulin buatan" },
+            { "id": "C", "teks": "Kortisol berlebih" },
+            { "id": "D", "teks": "Asam laktat" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Olahraga memicu produksi hormon endorfin dan dopamin yang bertindak sebagai pereda stres alami, penenang pikiran, serta menimbulkan perasaan gembira setelah bergerak."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Manakah kebiasaan praktis terbaik untuk memutus gaya hidup sedenter (kurang gerak) saat bekerja?",
+          "pilihan": [
+            { "id": "A", "teks": "Duduk terus menerus selama 8 jam tanpa minum" },
+            { "id": "B", "teks": "Berdiri dan lakukan peregangan ringan setiap 45-60 menit sekali" },
+            { "id": "C", "teks": "Mengonsumsi minuman berenergi tinggi setiap 2 jam" },
+            { "id": "D", "teks": "Hanya bergerak di hari Minggu dan tidak bergerak di hari kerja" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Melakukan 'active break' dengan berdiri, berjalan santai, atau peregangan tiap 45-60 menit terbukti melancarkan sirkulasi darah dan mencegah kekakuan punggung serta kelelahan mata."
+        }
+      ]
+    },
+    {
+      "id": "bab-2",
+      "nomor": 2,
+      "judul": "Daya Tahan Jantung-Paru & Sirkulasi Tubuh",
+      "deskripsi": "Mengenal sistem kardiorespirasi, cara mengukur denyut nadi istirahat, serta latihan aerobik yang ramah untuk segala usia.",
+      "estimasiMenit": 6,
+      "sections": [
+        {
+          "subjudul": "Pentingnya Sistem Kardiorespirasi",
+          "penjelasan": "Daya tahan jantung dan paru-paru (kardiorespirasi) adalah kemampuan jantung, paru, dan pembuluh darah untuk menyuplai oksigen ke otot-otot yang sedang bekerja selama aktivitas berkepanjangan.",
+          "poinPenting": [
+            "Jantung yang terlatih dapat memompa lebih banyak darah dalam satu detakan (stroke volume lebih tinggi).",
+            "Membantu menurunkan tekanan darah tinggi dan mengontrol kadar kolesterol jahat (LDL).",
+            "Meningkatkan stamina sehingga tidak mudah 'ngos-ngosan' saat beraktivitas harian."
+          ],
+          "tipsPraktis": "Gunakan 'Talk Test' (Tes Bicara). Saat latihan aerobik sedang, Anda masih dapat berbicara kalimat pendek tanpa terengah-engah parah.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Indikator Utama",
+            "judul": "Zona Denyut Nadi Latihan Sehat",
+            "items": [
+              { "judul": "Denyut Nadi Istirahat Normal", "deskripsi": "60 - 100 denyut per menit (bpm) saat bangun tidur dalam kondisi tenang." },
+              { "judul": "Zona Intensitas Sedang", "deskripsi": "50% - 70% dari denyut nadi maksimal (220 dikurangi usia)." },
+              { "judul": "Zona Pemulihan", "deskripsi": "Kecepatan detak jantung kembali ke kondisi normal setelah selesai berolahraga." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Pilihan Latihan Kardio Sederhana untuk Masyarakat",
+          "penjelasan": "Masyarakat tidak harus pergi ke pusat kebugaran mahal untuk melatih daya tahan jantung. Ada berbagai opsi aerobik yang hemat biaya, aman, dan dapat disesuaikan dengan kondisi fisik masing-masing individu.",
+          "poinPenting": [
+            "Jalan cepat (brisk walking): pilihan terbaik bagi pemula dan lansia dengan risiko benturan sendi yang sangat minim.",
+            "Jogging santai di ruang terbuka: membantu meningkatkan kapasitas paru-paru dan metabolisme kalori.",
+            "Bersepeda santai dan senam irama: melatih koordinasi tubuh sekaligus memperkuat otot tungkai."
+          ],
+          "tipsPraktis": "Lakukan pemanasan minimal 5 menit sebelum memulai latihan kardio untuk menyiapkan detak jantung secara bertahap.",
+          "visual": {
+            "type": "step-by-step",
+            "tag": "Panduan Praktik",
+            "judul": "Cara Cek Denyut Nadi Mandiri di Pergelangan Tangan (Arteri Radialis)",
+            "items": [
+              { "judul": "Langkah 1", "deskripsi": "Letakkan ujung jari telunjuk dan jari tengah di bagian dalam pergelangan tangan bawah jempol." },
+              { "judul": "Langkah 2", "deskripsi": "Tekan perlahan hingga merasakan denyutan yang teratur." },
+              { "judul": "Langkah 3", "deskripsi": "Hitung denyutan selama 15 detik, lalu kalikan hasilnya dengan 4 untuk mendapatkan denyut per menit." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Latihan Jalan Cepat 20 Menit",
+          "keterangan": "Jalan santai 3 menit (pemanasan), lalu jalan cepat 14 menit dengan ayunan tangan seirama, diakhiri jalan lambat 3 menit (pendinginan)."
+        },
+        {
+          "langkah": "Pencatatan Nadi Bangun Tidur",
+          "keterangan": "Cek nadi istirahat pagi hari selama 3 hari berturut-turut untuk mengetahui baseline kebugaran kardio Anda."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Apa fungsi utama dari sistem kardiorespirasi dalam tubuh saat berolahraga?",
+          "pilihan": [
+            { "id": "A", "teks": "Mengatur warna kulit saat terkena sinar matahari." },
+            { "id": "B", "teks": "Menyuplai oksigen dan nutrisi melalui darah ke seluruh jaringan otot yang bekerja." },
+            { "id": "C", "teks": "Mengurangi jumlah air dalam tubuh secara ekstrem." },
+            { "id": "D", "teks": "Menghentikan peredaran darah untuk menghemat tenaga." }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Kardiorespirasi bekerja menyerap oksigen melalui paru-paru dan dipompa oleh jantung ke seluruh otot yang sedang bergerak untuk menghasilkan energi."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Berapakah rentang denyut nadi istirahat (resting heart rate) normal pada orang dewasa sehat?",
+          "pilihan": [
+            { "id": "A", "teks": "20 - 30 denyut per menit" },
+            { "id": "B", "teks": "60 - 100 denyut per menit" },
+            { "id": "C", "teks": "150 - 200 denyut per menit" },
+            { "id": "D", "teks": "Lebih dari 220 denyut per menit" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Denyut nadi istirahat orang dewasa umumnya berkisar antara 60 hingga 100 kali per menit. Pada atlet terlatih atau orang yang sangat bugar, angkanya bisa di bawah 60 bpm."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Rumus praktis yang umum digunakan untuk memperkirakan denyut jantung maksimal (HR max) seseorang adalah...",
+          "pilihan": [
+            { "id": "A", "teks": "220 dikurangi Usia" },
+            { "id": "B", "teks": "100 ditambah Usia" },
+            { "id": "C", "teks": "Tinggi badan dikurangi berat badan" },
+            { "id": "D", "teks": "Jumlah langkah dibagi 10" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Rumus Fox and Haskell yang paling umum adalah: Denyut Nadi Maksimal = 220 - Usia (dalam tahun). Contoh: usia 20 tahun memiliki estimasi HR max 200 bpm."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Metode mudah 'Talk Test' pada latihan intensitas sedang ditandai dengan kondisi di mana...",
+          "pilihan": [
+            { "id": "A", "teks": "Tidak mampu mengeluarkan sepatah kata pun karena napas tercekat." },
+            { "id": "B", "teks": "Masih dapat berbicara dalam kalimat pendek dengan nyaman tanpa terengah-engah parah." },
+            { "id": "C", "teks": "Bisa bernyanyi lagu panjang tanpa berhenti sama sekali." },
+            { "id": "D", "teks": "Merasa pusing dan pingsan seketika." }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Jika saat bergerak Anda masih sanggup mengobrol kalimat wajar tapi tidak sanggup bernyanyi panjang, Anda berada di zona latihan intensitas sedang yang aman dan efektif."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Mengapa latihan jalan cepat (brisk walking) sangat direkomendasikan bagi pemula atau lansia?",
+          "pilihan": [
+            { "id": "A", "teks": "Karena tidak memerlukan oksigen sama sekali." },
+            { "id": "B", "teks": "Karena beban benturan pada persendian relatif rendah namun efektif menguatkan jantung." },
+            { "id": "C", "teks": "Karena jalan cepat dapat menggantikan tidur malam." },
+            { "id": "D", "teks": "Karena jalan cepat membakar seluruh lemak dalam waktu 1 menit." }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Jalan cepat merupakan latihan low-impact yang aman untuk lutut dan pergelangan kaki, tetapi tetap merangsang kerja jantung secara optimal jika dilakukan dengan ritme yang konsisten."
+        }
+      ]
+    },
+    {
+      "id": "bab-3",
+      "nomor": 3,
+      "judul": "Pola Hidup Sehat: Hidrasi, Nutrisi Seimbang & Istirahat",
+      "deskripsi": "Menyeimbangkan porsi gerak dengan asupan air minum, prinsip 'Isi Piringku', dan manajemen tidur untuk pemulihan optimal.",
+      "estimasiMenit": 5,
+      "sections": [
+        {
+          "subjudul": "Kunci Hidrasi Sehat Setiap Hari",
+          "penjelasan": "Sekitar 60-70% tubuh manusia terdiri dari air. Cairan tubuh berfungsi melumasi persendian, mengangkut nutrisi, membuang zat sisa metabolisme, dan mempertahankan suhu tubuh yang stabil.",
+          "poinPenting": [
+            "Dehidrasi ringan (kekurangan 1-2% cairan tubuh) dapat menurunkan konsentrasi dan stamina hingga 20%.",
+            "Jangan menunggu rasa haus datang baru minum; rasa haus adalah tanda awal dehidrasi.",
+            "Warna urine kuning jernih menandakan hidrasi yang cukup, sedangkan kuning pekat menandakan butuh asupan air segera."
+          ],
+          "tipsPraktis": "Selalu sediakan botol minum di meja kerja atau bawa saat bepergian untuk mempermudah pemenuhan 8 gelas air per hari.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Indikator Visual",
+            "judul": "Panduan Warna Urine untuk Cek Hidrasi",
+            "items": [
+              { "judul": "Bening hingga Kuning Muda", "deskripsi": "Kondisi hidrasi sangat baik dan optimal." },
+              { "judul": "Kuning Pekat / Keruh", "deskripsi": "Tanda dehidrasi ringan, segera minum 1-2 gelas air putih." },
+              { "judul": "Kuning Cokelat Gelap", "deskripsi": "Dehidrasi berat, segera konsumsi cairan dan istirahat." }
+            ]
+          }
+        },
+        {
+          "subjudul": "Prinsip 'Isi Piringku' & Tidur Pemulihan",
+          "penjelasan": "Kementerian Kesehatan menggalakkan panduan 'Isi Piringku': separuh piring diisi oleh sayur dan buah, separuh lainnya diisi oleh makanan pokok (karbohidrat kompleks) dan lauk berprotein.",
+          "poinPenting": [
+            "Protein membantu meregenerasi dan membangun serat otot yang lelah setelah beraktivitas.",
+            "Kurangi konsumsi gula, garam, dan lemak berlebih (GGL) untuk menjaga kesehatan pembuluh darah.",
+            "Tidur 7-8 jam per malam memicu pelepasan Growth Hormone untuk pemulihan jaringan tubuh."
+          ],
+          "tipsPraktis": "Hentikan penggunaan layar gadget (smartphone/laptop) minimal 30 menit sebelum tidur agar produksi melatonin alami tidak terganggu.",
+          "visual": {
+            "type": "infographic",
+            "tag": "Gizi Sehat",
+            "judul": "Komposisi Isi Piringku Sekali Makan",
+            "items": [
+              { "judul": "1/3 Piring Makanan Pokok", "deskripsi": "Nasi merah, singkong, ubi, jagung, atau nasi putih porsi wajar." },
+              { "judul": "1/3 Piring Sayuran Segar", "deskripsi": "Bayam, brokoli, kangkung, wortel sebagai serat alami." },
+              { "judul": "1/6 Piring Lauk Berprotein", "deskripsi": "Ikan, telur, tempe, tahu, atau dada ayam tanpa lemak." },
+              { "judul": "1/6 Piring Buah-buahan", "deskripsi": "Pisang, pepaya, jeruk, atau semangka kaya vitamin." }
+            ]
+          }
+        }
+      ],
+      "contohPraktik": [
+        {
+          "langkah": "Rutinitas Segelas Air Bangun Tidur",
+          "keterangan": "Minum 1 gelas air putih hangat di pagi hari setelah bangun tidur untuk mengaktifkan organ metabolisme."
+        },
+        {
+          "langkah": "Evaluasi Piring Makan Siang",
+          "keterangan": "Bagi piring Anda secara visual sesuai pedoman Isi Piringku: pastikan sayuran dan buah menempati setengah piring."
+        },
+        {
+          "langkah": "Jadwal Tidur Teratur",
+          "keterangan": "Pasang alarm tidur pada jam yang sama setiap malam dan buat suasana kamar redup serta sejuk."
+        }
+      ],
+      "kuis": [
+        {
+          "id": 1,
+          "pertanyaan": "Berapakah rata-rata kebutuhan konsumsi cairan air putih per hari untuk orang dewasa sehat di iklim tropis?",
+          "pilihan": [
+            { "id": "A", "teks": "0.5 liter per hari" },
+            { "id": "B", "teks": "Sekitar 2 hingga 2.5 liter (kurang lebih 8 gelas) per hari" },
+            { "id": "C", "teks": "10 liter per hari tanpa jeda" },
+            { "id": "D", "teks": "Hanya minum saat merasa pusing berat" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Kebutuhan umum cairan orang dewasa berkisar antara 2 sampai 2.5 liter per hari untuk menjaga keseimbangan elektrolit dan cairan tubuh yang hilang lewat keringat dan pernapasan."
+        },
+        {
+          "id": 2,
+          "pertanyaan": "Bagaimanakah cara visual paling praktis untuk mengetahui apakah tubuh kita terhidrasi dengan baik?",
+          "pilihan": [
+            { "id": "A", "teks": "Melihat warna urine; warna kuning muda jernih menandakan hidrasi cukup" },
+            { "id": "B", "teks": "Menimbang berat badan setiap 10 menit" },
+            { "id": "C", "teks": "Menghitung jumlah hembusan napas per jam" },
+            { "id": "D", "teks": "Merasakan suhu kuku tangan" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Warna urine adalah indikator cepat kondisi hidrasi: warna bening hingga kuning jerami menunjukkan cairan cukup, sedangkan warna gelap menandakan perlunya minum air."
+        },
+        {
+          "id": 3,
+          "pertanyaan": "Menurut panduan gizi seimbang 'Isi Piringku', separuh bagian piring makan sebaiknya diisi oleh...",
+          "pilihan": [
+            { "id": "A", "teks": "Gorengan dan kerupuk gurih" },
+            { "id": "B", "teks": "Sayuran dan buah-buahan" },
+            { "id": "C", "teks": "Nasi putih porsi penuh bertumpuk" },
+            { "id": "D", "teks": "Minuman manis berperisa" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Pedoman 'Isi Piringku' menganjurkan 50% piring terdiri dari sayur dan buah sebagai sumber serat, vitamin, dan mineral penting pelindung tubuh."
+        },
+        {
+          "id": 4,
+          "pertanyaan": "Berapa lama durasi tidur malam yang disarankan untuk orang dewasa agar proses pemulihan sel tubuh berjalan optimal?",
+          "pilihan": [
+            { "id": "A", "teks": "2 hingga 3 jam" },
+            { "id": "B", "teks": "7 hingga 8 jam" },
+            { "id": "C", "teks": "12 hingga 15 jam" },
+            { "id": "D", "teks": "Cukup tidur siang 15 menit saja tanpa tidur malam" }
+          ],
+          "kunciJawaban": "B",
+          "pembahasan": "Tidur malam selama 7-8 jam memberikan waktu bagi otak untuk membersihkan racun metabolik dan memicu perbaikan jaringan otot yang lelah."
+        },
+        {
+          "id": 5,
+          "pertanyaan": "Apa kebiasaan sebelum tidur yang terbukti secara ilmiah membantu tidur lebih nyenyak dan cepat lelap?",
+          "pilihan": [
+            { "id": "A", "teks": "Mematikan atau menjauhkan layar smartphone minimal 30 menit sebelum tidur" },
+            { "id": "B", "teks": "Meminum kopi pekat tepat sebelum berbaring" },
+            { "id": "C", "teks": "Menyalakan lampu kamar seterang mungkin" },
+            { "id": "D", "teks": "Makan makanan berat berminyak 10 menit sebelum tidur" }
+          ],
+          "kunciJawaban": "A",
+          "pembahasan": "Cahaya biru (blue light) dari gawai menghambat hormon tidur melatonin. Menjauhkan layar sebelum tidur membantu tubuh mempersiapkan fase istirahat alami secara lebih damai."
+        }
+      ]
+    }
+  ]
+}
+
