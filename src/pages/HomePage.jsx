@@ -78,7 +78,7 @@ export default function HomePage() {
         <div className="absolute top-1/4 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-emerald-200/20 rounded-full blur-3xl pointer-events-none" />
         <div className="absolute top-10 right-10 w-72 h-72 bg-teal-200/20 rounded-full blur-2xl pointer-events-none" />
 
-        <div className="relative max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-6">
           
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-100/80 border border-emerald-200 text-emerald-800 text-xs sm:text-sm font-bold shadow-2xs animate-in fade-in slide-in-from-bottom duration-300">
@@ -88,9 +88,9 @@ export default function HomePage() {
 
           {/* Main Title */}
           <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-slate-900 tracking-tight leading-[1.2] sm:leading-[1.15]">
-            Tubuh lebih bugar, hidup lebih segar: <br className="hidden sm:inline" />
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600 block sm:inline mt-1 sm:mt-0">
-              Awali dengan langkah paling mendasar.
+            Tubuh lebih bugar, hidup lebih segar:<br className="hidden sm:block" />
+            <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600 block mt-1 sm:mt-0">
+              Awali dengan langkah paling<br className="hidden sm:block" /> mendasar.
             </span>
           </h1>
 
