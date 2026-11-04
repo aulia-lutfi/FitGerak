@@ -77,7 +77,7 @@ export default function Footer() {
           {/* Col 3: Dukungan Mitra Abulyatama */}
           <div className="space-y-3">
             <h4 className="text-sm font-bold text-white uppercase tracking-wider">Mitra Edukasi</h4>
-            <div className="flex items-center gap-3 p-2.5 rounded-xl bg-slate-800/80 border border-slate-700">
+            <div className="flex w-fit max-w-full items-center gap-3 p-2.5 rounded-xl bg-slate-800/80 border border-slate-700">
               <img 
                 src="/logo-abulyatama.png" 
                 alt="Logo Universitas Abulyatama" 
