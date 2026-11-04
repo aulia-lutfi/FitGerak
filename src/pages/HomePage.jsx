@@ -87,8 +87,8 @@ export default function HomePage() {
           </div>
 
           {/* Main Title */}
-          <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-slate-900 tracking-tight leading-[1.2] sm:leading-[1.15]">
-            Tubuh lebih bugar, hidup lebih segar:<br className="hidden sm:block" />
+          <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-5xl xl:text-6xl font-extrabold text-slate-900 tracking-tight leading-[1.2] sm:leading-[1.15]">
+            Tubuh lebih bugar, hidup lebih segar<br className="hidden sm:block" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600 block mt-1 sm:mt-0">
               Awali dengan langkah paling<br className="hidden sm:block" /> mendasar.
             </span>
