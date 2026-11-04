@@ -88,9 +88,9 @@ export default function HomePage() {
 
           {/* Main Title */}
           <h1 className="text-2xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-slate-900 tracking-tight leading-[1.2] sm:leading-[1.15]">
-            Tubuh Lebih Bugar, Hidup Lebih Sehat <br className="hidden sm:inline" />
+            Tubuh lebih bugar, hidup lebih segar: <br className="hidden sm:inline" />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-600 to-teal-600 block sm:inline mt-1 sm:mt-0">
-              Mulai dari Langkah Sederhana
+              Awali dengan langkah paling mendasar.
             </span>
           </h1>
 
