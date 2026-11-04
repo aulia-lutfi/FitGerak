@@ -213,19 +213,6 @@ export default function Navbar({ onOpenSearch }) {
                 })}
               </div>
 
-              {/* Search Shortcut Button */}
-              <div className="px-3 pt-1">
-                <button
-                  onClick={() => {
-                    setMobileMenuOpen(false);
-                    onOpenSearch();
-                  }}
-                  className="w-full py-2 px-3 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-bold text-xs flex items-center gap-2 transition-colors min-h-[40px]"
-                >
-                  <Search className="w-3.5 h-3.5 text-slate-500" />
-                  <span>Cari Materi...</span>
-                </button>
-              </div>
             </div>
 
             {/* Drawer Bottom: Progress Summary */}
