@@ -8,6 +8,7 @@ export default function Footer() {
     { nama: 'Maulizar Syauqi', nim: '24110110' },
     { nama: 'Haikal', nim: '24110105' },
     { nama: 'Muazzir', nim: '24110086' },
+    { nama: 'Teuku M. Alvin Fenanda', nim: '24110082' },
   ];
 
   return (
